@@ -4,7 +4,7 @@ for altrovis frontend technical assessment purpose
 live demo: http://altrovis-frontendtest.surge.sh/
 
 ## Development
-### Installation
+### Project Setup
 ```
 git clone https://github.com/hafiskarim/Altrovis-FED.git
 npm install
