@@ -1,8 +1,8 @@
 # Altrovis-FED
 for altrovis frontend technical assessment purpose
 
-### Getting Started
 live demo: http://altrovis-frontendtest.surge.sh/
+
 ## Development
 ### Installation
 ```
