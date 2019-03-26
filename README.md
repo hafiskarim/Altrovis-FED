@@ -2,7 +2,7 @@
 for altrovis frontend technical assessment purpose
 
 ### Getting Started
-live demo: 
+live demo: http://altrovis-frontendtest.surge.sh/
 ## Development
 ### Installation
 ```
